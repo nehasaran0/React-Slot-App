@@ -1,0 +1,118 @@
+/*body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}*/
+
+
+
+
+*{
+  padding: 0;
+  margin: 0;
+  }
+  
+  h1{
+    text-align: center;
+    padding: 30px;
+    color: rgb(64, 92, 36);
+    font-size: 80px;
+    height: 70px;
+    width: 820px;
+     background-color: rgb(140, 216, 172);
+     border-radius: 10px;
+     margin: 30px;
+     margin-left: 180px;
+   
+  }
+  
+  body{
+    background-color: rgb(245, 242, 231);
+  }
+  
+  #main{
+    
+    height: 80px;
+    width: 400px;
+    background-color: cornflowerblue;
+    margin: 40px auto;
+      padding: 20px;
+      border-radius: 10px;
+      box-shadow: darkblue;
+      box-shadow: 4px 4px 0px 0px rgb(12, 94, 245);
+      
+    
+  }
+  .btn{
+   margin: auto;
+   margin-top: 15px;
+   margin-left: 140px;
+   font-size: 35px;
+   border-radius: 10px;
+   background-color: chartreuse;
+   font-weight: bold;
+  cursor: pointer;
+   
+   
+  }
+  .btn:hover{
+    margin: auto;
+    margin-top: 15px;
+    margin-left: 150px;
+    font-size: 35px;
+    border-radius: 10px;
+    background-color: rgb(99, 190, 7);
+    font-weight: bold;
+    padding: 2px 0px;
+   box-shadow: 2px 2px 0px 0px rgb(33, 151, 33);
+    
+    
+   }
+  
+  h4{
+    text-align: center;
+    color: brown;
+    font-size: 25px;
+  }
+  h4:hover{
+    text-align: center;
+    color: brown;
+    font-size: 25px;
+    padding: 2px 0px;
+  }
+  
+  h3{
+    text-align: center;
+    color: rgb(179, 8, 170);
+   
+    
+  }
+  h2{
+    text-align: center;
+    color: rgb(132, 14, 241);
+   
+    
+  }
+  nn{
+    text-align: center;
+  }
+  .slotmachine{
+    height: 180px;
+    width: 400px;
+    background-color: rgb(179, 204, 250);
+    margin: 40px auto;
+      padding: 20px;
+      border: cornflowerblue;
+      border-radius: 15px;
+      box-shadow: 0px 0px 2px 2px rgb(33, 151, 33);
+  }
+  
+  
